@@ -4,9 +4,12 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Azmat Naseem
-title: Junior Software Developer
+title: Web Developer
 email: azmatnaseem@live.com
 website: https://azmmat.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: true
 
 # Social links
 twitter_username: AzmatNaseem
