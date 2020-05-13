@@ -3,19 +3,19 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Azmat Naseem
+title: Junior Software Developer
+email: azmatnaseem@live.com
+website: https://azmmat.github.io/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: AzmatNaseem
+github_username:  Azmmat
 # dribbble_username: jekyll
-# facebook_username: jekyll
+ facebook_username: AzmmatNaseem
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: AzmatNaseem
+linkedin_username: AzmatNaseem
 # pinterest_username: jekyll
 youtube_username: globalmtb
 # googleplus_username: +jekyll
