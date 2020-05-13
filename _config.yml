@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: Azmmat/Azmmat.github.io
 favicon: images/favicon.ico
 
 # Personal info
@@ -12,12 +12,12 @@ website: https://azmmat.github.io/
 twitter_username: AzmatNaseem
 github_username:  Azmmat
 # dribbble_username: jekyll
- facebook_username: AzmmatNaseem
+facebook_username: AzmmatNaseem
 # flickr_username: jekyll
 instagram_username: AzmatNaseem
 linkedin_username: AzmatNaseem
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
