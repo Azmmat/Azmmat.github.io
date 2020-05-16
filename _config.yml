@@ -5,7 +5,6 @@ favicon: images/favicon.ico
 # Personal info
 name: Azmat Naseem
 title: Web Developer
-phone: +92 (345) 686-8290
 email: azmatnaseem45@gmail.com
 website: https://azmmat.github.io/
 
@@ -13,10 +12,10 @@ website: https://azmmat.github.io/
 darkmode: true
 
 # Social links
- twitter_username: AzmatNaseem
+twitter_username: AzmatNaseem
 github_username:  Azmmat
 # dribbble_username: jekyll
- facebook_username: AzmmatNaseem
+facebook_username: AzmmatNaseem
 # flickr_username: jekyll
 # instagram_username: AzmatNaseem
 linkedin_username: AzmatNaseem
