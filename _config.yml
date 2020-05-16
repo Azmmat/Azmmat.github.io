@@ -26,7 +26,7 @@ linkedin_username: AzmatNaseem
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: |  this will include new lines to allow paragraphs
+about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Azmat and I'm a junior web developer.I also have experience making mobile apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>JavaScript</mark> and <mark>JavaScript</mark>
@@ -42,7 +42,7 @@ about_content: |  this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: |  this will include new lines to allow paragraphs
+more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in web and software development some of my other interests and hobbies are:
    - Reading
    - Gaming
