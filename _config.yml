@@ -48,7 +48,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Gaming
    - [Cooking](https://www.youtube.com/watch?v=vtg4o__aRMg)
    
- # Skill Section
+# Skill Section
 # Skill_title: A Little About My Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
