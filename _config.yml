@@ -5,6 +5,7 @@ favicon: images/favicon.ico
 # Personal info
 name: Azmat Naseem
 title: Web Developer
+phone: +92 (345) 686-8290
 email: azmatnaseem45@gmail.com
 website: https://azmmat.github.io/
 
@@ -12,10 +13,10 @@ website: https://azmmat.github.io/
 darkmode: true
 
 # Social links
-# twitter_username: AzmatNaseem
+ twitter_username: AzmatNaseem
 github_username:  Azmmat
 # dribbble_username: jekyll
-# facebook_username: AzmmatNaseem
+ facebook_username: AzmmatNaseem
 # flickr_username: jekyll
 # instagram_username: AzmatNaseem
 linkedin_username: AzmatNaseem
@@ -41,12 +42,12 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: A Little More About My Skills
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in web and software development some of my other interests, **Skills** and *hobbies* are:
    - Reading
    - Gaming
-   - [Cooking](https://www.youtube.com/watch?v=vtg4o__aRMg)  
+   - [Coding](https://www.youtube.com/watch?v=vtg4o__aRMg)  
    
 # Footer
 footer_show_references: true
