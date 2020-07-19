@@ -5,8 +5,8 @@ favicon: images/favicon.ico
 # Personal info
 name: Azmat Naseem
 title: Web Developer
-email: azmatnaseem45@gmail.com
-website: https://azmmat.github.io/
+# email: azmatnaseem45@gmail.com
+# website: https://azmmat.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
