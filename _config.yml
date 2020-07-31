@@ -27,9 +27,9 @@ linkedin_username: AzmatNaseem
 # about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Azmat and I'm a junior web developer.I also have experience making mobile apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Azmat and I'm a junior software developer.I also have experience making Mobile and Web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>C#</mark>, <mark>.NET</mark> and <mark>JavaScript</mark>
+  I am most skilled in: <mark>C#</mark> <mark>.NET</mark> and <mark>JavaScript</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -43,10 +43,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About My Skills
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in web and software development some of my other interests, **Skills** and *hobbies* are:
-   - Reading
-   - Gaming
-   - [Coding](https://www.youtube.com/watch?v=vtg4o__aRMg)  
+  Alongside my interests in Web and Software development some of my other interests, **Skills** and **Hobbies** are:
+   - [Reading](https://openlibrary.org/)
+   - [Gaming](https://www.miniclip.com/)
+   - [Coding](https://www.youtube.com/c/Freecodecamp/videos)  
    
 # Footer
 footer_show_references: true
