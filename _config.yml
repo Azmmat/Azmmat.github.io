@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 name: Azmat Naseem
 title: Web Developer
 # email: azmatnaseem45@gmail.com
-# website: https://azmmat.github.io/
+website: https://azmatnaseem.com/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: AzmatNaseem
@@ -29,7 +29,7 @@ about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Azmat and I'm a junior web developer.I also have experience making mobile apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>JavaScript</mark> and <mark>JavaScript</mark>
+  I am most skilled in: <mark>C#</mark>, <mark>.NET</mark> and <mark>JavaScript</mark>
 
 # Projects Section
 # projects_title: Projects
