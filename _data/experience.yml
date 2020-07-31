@@ -1,19 +1,9 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
+  company: Avelyn Ltd
+  link: http://avelyn.co.uk/
   job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  dates: April 2018 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Solving problems by designing solution and implemnting through coding.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-- layout: right
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    I've been working with Avelyn Ltd, Since April 2018 remotely as Junior Developer, working on different software products, Mainly on their POS(Point of Sales System) using C#, .NET 4.5, ASP.NET and MSSQL
