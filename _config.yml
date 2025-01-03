@@ -3,22 +3,22 @@ repository: Azmmat/Azmmat.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Azmat Naseem
-title: Web Developer
-# email: azmatnaseem45@gmail.com
+name: Azmat 
+title: Cyber Security Specialist
+# email: info@azmatnaseem.com
 # website: https://www.azmatnaseem.com
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-twitter_username: AzmatNaseem
+twitter_username: ABC
 github_username:  Azmmat
 # dribbble_username: jekyll
-facebook_username: AzmmatNaseem
+facebook_username: ABC
 # flickr_username: jekyll
 # instagram_username: AzmatNaseem
-linkedin_username: AzmatNaseem
+linkedin_username: ABC
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -27,9 +27,9 @@ linkedin_username: AzmatNaseem
 # about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Azmat and I'm a junior software developer.I also have experience making Mobile and Web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Azmat .............................................................
 
-  I am most skilled in: <mark>C#</mark> <mark>.NET</mark> and <mark>JavaScript</mark>
+  I am most skilled in: <mark>Security</mark> <mark>Networks</mark> and <mark>NGFW</mark>
 
 # Projects Section
 # projects_title: Projects
