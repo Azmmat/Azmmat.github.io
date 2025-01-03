@@ -1,7 +1,7 @@
 - layout: left
   name: ABC XYZ
-  dates: 2013 - 2018
-  qualification: BS Computer Science
+  dates: 2025
+  qualification: Computer Science
   quote: >
     Established in ABC XYZ.
   description: | # this will include new lines to allow paragraphs
