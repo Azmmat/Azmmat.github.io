@@ -1,10 +1,10 @@
 - layout: left
   name: ABC XYZ
   dates: 2025
-  qualification: Computer Science
+  qualification: Computer 
   quote: >
     Established in ABC XYZ.
   description: | # this will include new lines to allow paragraphs
     ABC XYZ
 
-    I spent a lot of my free time ABC XYZ.
+    free time ABC XYZ.
