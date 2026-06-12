@@ -3,8 +3,8 @@ repository: Azmmat/Azmmat.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Azmat 
-title: Cyber Security Specialist
+name: ABC
+title: Tech Guy
 # email: info@azmatnaseem.com
 # website: https://www.azmatnaseem.com
 
@@ -25,11 +25,11 @@ linkedin_username: ABC
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.JPG
+about_profile_image: images/profile2.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Azmat .............................................................
+  Hi,  .............................................................
 
-  I am most skilled in: <mark>Security</mark> <mark>Networks</mark> and <mark>NGFW</mark>
+  I am most skilled in: <mark>A</mark> <mark>B</mark> and <mark>C</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -43,7 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About My Skills
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in Web and Software development some of my other interests, **Skills** and **Hobbies** are:
+  Alongside **A** and **B** are:
    - [Reading](https://openlibrary.org/)
    - [Gaming](https://www.miniclip.com/)
    - [Coding](https://www.youtube.com/c/Freecodecamp/videos)  
